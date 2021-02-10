@@ -5,3 +5,5 @@ Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalı
 e-posta: onurilaslann@gmail.com <br>
 youtube: <a href="https://www.youtube.com/channel/UCB5CvKOYfra5vJ6M6zk-7Mw">tıkla.</a>
 <br>website: onurilaslan.rf.gd
+
+![onurilaslan stats](https://github-readme-stats.vercel.app/api?username=onurilaslan&show_icons=true&theme=radical)
