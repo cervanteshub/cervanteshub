@@ -1,8 +1,9 @@
 # Onur İlaslan ![onurprewiev](https://komarev.com/ghpvc/?username=cervanteshub) <a href="https://discord.gg/zHG4m4V9vJ"><img src="https://img.shields.io/discord/754034797864812634.svg?style=flat&label=Join%20Community&color=7289DA" alt="Discord Topluluğu"/></a>
 
-Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalışmalar yapıyorum. Genel olarak web alanında kendimi geliştirmeye çalıştım, ayrıca boş zamanlarımı oyun geliştiriciliği yaparak değerlendirmekteyim.
 
-### ⚙️ &nbsp;GitHub Analytics
+Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalışmalar yapıyorum. Genel olarak web alanında kendimi geliştirmeye çalıştım, ayrıca boş zamanlarımı oyun geliştiriciliği yaparak değerlendirmekteyim.
+<hr>
+
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -11,12 +12,6 @@ Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalı
 </a>
 </p>
 
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
+### 🎶 &nbsp;
 
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
