@@ -3,8 +3,8 @@
 
 Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalışmalar yapıyorum. Genel olarak web alanında kendimi geliştirmeye çalıştım, ayrıca boş zamanlarımı oyun geliştiriciliği yaparak değerlendirmekteyim.
 
-email: onurilaslann@gmail.com
-web: www.onurilaslan.rf.gd
+email: onurilaslann@gmail.com<br>
+web: www.onurilaslan.rf.gd<br>
 
 <p align="center">
 <a href="https://github.com/AVS1508">
