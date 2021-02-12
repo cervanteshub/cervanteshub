@@ -12,6 +12,5 @@ Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalı
 </a>
 </p>
 
-### 🎶 &nbsp;
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4?si=J8LPPmT-Ryib1x0pfhDwoA)
