@@ -2,9 +2,21 @@
 
 Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalışmalar yapıyorum. Genel olarak web alanında kendimi geliştirmeye çalıştım, ayrıca boş zamanlarımı oyun geliştiriciliği yaparak değerlendirmekteyim.
 
-e-posta: onurilaslann@gmail.com <br>
-youtube: <a href="https://www.youtube.com/channel/UCB5CvKOYfra5vJ6M6zk-7Mw">tıkla.</a>
-<br>website: onurilaslan.rf.gd<br>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cervanteshub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cervanteshub&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![onurilaslan stats](https://github-readme-stats.vercel.app/api?username=cervanteshub&show_icons=true&theme=radical)
+<!--START_SECTION:waka-->
+```text
+Week: 07 January, 2021 - 14 January, 2021
+
+HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
+JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+```
+<!--END_SECTION:waka-->
