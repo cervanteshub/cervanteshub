@@ -2,8 +2,9 @@
 
 
 Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalışmalar yapıyorum. Genel olarak web alanında kendimi geliştirmeye çalıştım, ayrıca boş zamanlarımı oyun geliştiriciliği yaparak değerlendirmekteyim.
-<hr>
 
+email: onurilaslann@gmail.com
+web: www.onurilaslan.rf.gd
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -11,6 +12,3 @@ Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalı
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cervanteshub&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4?si=J8LPPmT-Ryib1x0pfhDwoA)
