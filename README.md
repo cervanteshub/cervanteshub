@@ -1,4 +1,4 @@
-# Onur İlaslan ![onurprewiev](https://komarev.com/ghpvc/?username=cervanteshub) <a href="https://discord.gg/zHG4m4V9vJ"><img src="https://img.shields.io/discord/754034797864812634.svg?style=flat&label=Join%20Community&color=7289DA" alt="Discord Topluluğu"/></a>
+# Onur "cervantes" İlaslan ![onurprewiev](https://komarev.com/ghpvc/?username=cervanteshub) <a href="https://discord.gg/zHG4m4V9vJ"><img src="https://img.shields.io/discord/754034797864812634.svg?style=flat&label=Join%20Community&color=7289DA" alt="Discord Topluluğu"/></a>
 
 
 Selam, 4 yılı aşkın süredir programlama ve web tasarım alanlarında çalışmalar yapıyorum. Genel olarak web alanında kendimi geliştirmeye çalıştım, ayrıca boş zamanlarımı oyun geliştiriciliği yaparak değerlendirmekteyim.
