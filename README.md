@@ -27,7 +27,8 @@ Discord : cervantes#3890
 Los Santos Police Pursuits SA-MP Sever<br>
 www.lspp.rf.gd<br>
 Westham Development (Founder)<br>
-Fenix Development (Co-founder)<br>
+Fenix Development (Co-Founder)<br>
+xc-two Development (Co-Founder)<br>
 Valeinsiva Bot (Developer)
 </details>
 
