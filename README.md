@@ -19,9 +19,8 @@ E-mail adress : onurilaslann@gmail.com <br>
 Website : www.onurilaslan.rf.gd <br>
 Discord : cervantes#3890
   </details>
-<details>
-> test
 
+<details>
 <summary>My Project 🦴
   </summary>
 Los Santos Police Pursuits SA-MP Sever<br>
