@@ -45,8 +45,8 @@ Valeinsiva Bot (Developer)
 <a href="https://github.com/thecerv4ntes">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecerv4ntes&show_icons=true&theme=tokyonight&line_height=27" alt="thecerv4ntes"/>
 </a>
-
-### Stats
+<br>
+### Stats <br>
 <!--START_SECTION:waka-->
 ```text
 Week: 07 January, 2021 - 14 January, 2021
