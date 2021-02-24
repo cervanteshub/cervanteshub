@@ -31,4 +31,15 @@ Fenix Development (Co-founder)<br>
 Valeinsiva Bot (Developer)
 </details>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecerv4ntes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="internetingittikardesimazparaode">
+
+<details>
+  <summary> Github Activity </summary>
+</details>
+
+<a href="https://github.com/thecerv4ntes">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecerv4ntes&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/thecerv4ntes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecerv4ntes&show_icons=true&theme=tokyonight&line_height=27" alt="thecerv4ntes"/>
+</a>
