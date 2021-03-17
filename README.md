@@ -4,7 +4,7 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://onurilaslan.rf.gd">Onur</a></b>.
     <br>I'm a Computer Engineering Student from Turkey.<br>
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=onurilaslan&repo=onurilaslan&countColorcountColor&countColor=%237B1E7B"/>
 
 
 </samp>
