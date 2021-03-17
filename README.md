@@ -4,6 +4,8 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://onurilaslan.rf.gd">Onur</a></b>.
     <br>I'm a Computer Engineering Student from Turkey.<br>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 </samp>
 </p>
@@ -34,8 +36,20 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+<hr>
 
-### 🤝🏻 &nbsp;Connect with Me
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/xfa59ymgzf28oajzw3bzpys1k)
+
+---
+
+### 😎 &nbsp;Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=onurilaslan&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="onur's GitHub Stats">
+
+### 🤝🏻 &nbsp;Contact with Me
 
 <p align="center">
 <a href="https://www.onurilaslan.com"><img src="https://img.shields.io/badge/-onurilaslan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -44,4 +58,3 @@
 <a href="https://instagram.com/onurilaslann"><img src="https://img.shields.io/badge/-@onurilaslann-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/onurilaslan"><img src="https://img.shields.io/badge/-@onur-BD081C?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
