@@ -29,8 +29,8 @@
 
 <p align="center">
 <a href="https://www.onurilaslan.com"><img src="https://img.shields.io/badge/-onurilaslan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/onurilaslan"><img src="https://img.shields.io/badge/-Onur%20İlalsan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/onurilaslan"><img src="https://img.shields.io/badge/-Onur%20İlaslan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:onurilaslann@gmail.com"><img src="https://img.shields.io/badge/-onurilaslann@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/onurilaslann"><img src="https://img.shields.io/badge/-@onurilaslann-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/onurilaslan"><img src="https://img.shields.io/badge/-@onur?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/onurilaslan"><img src="https://img.shields.io/badge/-@onur-BD081C?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
