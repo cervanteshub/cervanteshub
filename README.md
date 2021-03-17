@@ -60,10 +60,10 @@ Languages and Tools 🛠
 </details>
 
 <a href="https://github.com/thecerv4ntes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecerv4ntes&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valeinsiva&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/thecerv4ntes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecerv4ntes&show_icons=true&theme=tokyonight&line_height=27" alt="thecerv4ntes"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Valeinsiva&show_icons=true&theme=tokyonight&line_height=27" alt="thecerv4ntes"/>
 </a>
 
