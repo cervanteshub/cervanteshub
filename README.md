@@ -45,8 +45,3 @@
 <a href="https://facebook.com/onurilaslan"><img src="https://img.shields.io/badge/-@onur-BD081C?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-
-<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
-/>
-
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=onurilaslan&">
